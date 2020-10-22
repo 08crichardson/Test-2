@@ -1,0 +1,118 @@
+﻿1
+00:00:00,630 --> 00:00:05,020
+Enate allows you to orchestrate end to end
+services across people and bots.
+
+2
+00:00:05,020 --> 00:00:09,250
+Let's take a digitization example.
+Here we've got an invoice being emailed in
+
+3
+00:00:09,250 --> 00:00:14,420
+which gets picked up by smart OCR bots to
+scan categorize and extract data
+
+4
+00:00:14,420 --> 00:00:18,198
+before a UI path bot updates the data into
+an ERP system.
+
+5
+00:00:18,199 --> 00:00:22,130
+At every point, if the bot goes wrong or it's
+not confident in the outcome,
+
+6
+00:00:22,130 --> 00:00:27,140
+Enate let’s you put a human in the loop
+to help resolve.
+
+7
+00:00:27,140 --> 00:00:30,550
+You can configure end-to-end orchestrations
+like this in Enate using the super-simple
+
+8
+00:00:30,550 --> 00:00:33,640
+Builder tool.
+
+9
+00:00:33,640 --> 00:00:37,140
+Here's the invoice getting emailed in.
+In the background, there's scheduled bots
+
+10
+00:00:37,140 --> 00:00:41,500
+which pick up that mail and categorize, extract
+and validate the data.
+
+11
+00:00:41,500 --> 00:00:45,180
+In this case the confidence levels from the
+bot aren't strong enough so Enate flips the
+
+12
+00:00:45,180 --> 00:00:49,430
+work over to the human in the loop.
+Team members working in Enate automatically
+
+13
+00:00:49,430 --> 00:00:54,190
+pick up the next most important activity against
+SLAs.
+
+14
+00:00:54,190 --> 00:00:59,150
+Here we surface the ‘smart OCR Validation
+Station’ user interface inside an Enate
+
+15
+00:00:59,150 --> 00:01:01,720
+smartcard.
+So regardless of how the human gets in the
+
+16
+00:01:01,720 --> 00:01:06,850
+loop, Enate’s their go-to place.
+Validation Station displays the specific issues
+
+17
+00:01:06,850 --> 00:01:11,509
+to the agent and helps them correct the data
+as necessary.
+
+18
+00:01:11,509 --> 00:01:15,490
+Once they're happy with their changes,
+they mark as complete and we pass this onto
+
+19
+00:01:15,490 --> 00:01:22,890
+a UIPath bot to update an ERP system as the
+next part of the process.
+
+20
+00:01:22,890 --> 00:01:27,380
+Logged into Enate digital operations platform
+as a team leader, I can easily track this
+
+21
+00:01:27,380 --> 00:01:30,189
+activity.
+Here we can see our Bot Pluto as it picks
+
+22
+00:01:30,189 --> 00:01:34,148
+up the work.
+Enate acts as a governance platform
+
+23
+00:01:34,149 --> 00:01:39,220
+where managers can see which resource is doing
+what work, where, when and why - whether that's
+
+24
+00:01:39,220 --> 00:01:40,380
+a person or a bot.
+
