@@ -36,5 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-<#Header 1 Notifications/>
+# Notifications
+## 2.1	Queues management  
+### A.	Queues with multiple managers
+Queues can be set to have more than one manager.
+Example: Consider Manager 1 and Manager 2 as two team leads where Manager 1 needs visibility on the Queue of Manager 2. Manager 1 can simply add the Queue of Manager 2 to his Queues page to have the visibility of the same.
+Click on the edit option and add the specified Queue where it shows that the Queue is managed by Manager 2. This no longer removes managerial responsibility from the current manager.
